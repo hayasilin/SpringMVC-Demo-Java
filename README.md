@@ -11,7 +11,7 @@ This is my demo project of using the Java framework Spring MVC. Enjoy it!
 ## Basic UI
 
 ###  Main page
-![alt text](https://raw.githubusercontent.com/hayasilin/SkillSwap-Platform-php/master/Screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/hayasilin/SpringMVC-Demo-Java/master/Screenshots/1.png)
 
 ## Authors
 
