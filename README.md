@@ -34,10 +34,6 @@ Access ```http://localhost:8080/spring4```
 ###  Main page
 ![alt text](https://raw.githubusercontent.com/hayasilin/SpringMVC-Demo-Java/master/Screenshots/1.png)
 
-## Authors
-
-* **Kuan-Wei**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
